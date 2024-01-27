@@ -1,4 +1,4 @@
-# orw_shellcode
-orw shellcode finding /tmp/flag 
+# execve_shellcode
+execve_shellcode getting /bin/sh 
 
-https://m-in-zu.tistory.com/5
+https://m-in-zu.tistory.com/6
